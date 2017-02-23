@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/KB.dir/main.cpp.o CMakeFiles/KB.dir/Movie.cpp.o CMakeFiles/KB.dir/Actor.cpp.o CMakeFiles/KB.dir/Graph.cpp.o CMakeFiles/KB.dir/MovieTree.cpp.o  -o KB 

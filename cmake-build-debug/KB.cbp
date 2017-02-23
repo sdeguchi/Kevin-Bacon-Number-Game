@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="KB"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/sdeguchi/ClionProjects/KB/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/sdeguchi/ClionProjects/KB/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/sdeguchi/ClionProjects/KB/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KB">
+				<Option output="/home/sdeguchi/ClionProjects/KB/cmake-build-debug/KB" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sdeguchi/ClionProjects/KB/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 KB"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KB/fast">
+				<Option output="/home/sdeguchi/ClionProjects/KB/cmake-build-debug/KB" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sdeguchi/ClionProjects/KB/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 KB/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/sdeguchi/ClionProjects/KB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/sdeguchi/ClionProjects/KB/Actor.cpp">
+			<Option target="KB"/>
+		</Unit>
+		<Unit filename="/home/sdeguchi/ClionProjects/KB/Actor.h">
+			<Option target="KB"/>
+		</Unit>
+		<Unit filename="/home/sdeguchi/ClionProjects/KB/Graph.cpp">
+			<Option target="KB"/>
+		</Unit>
+		<Unit filename="/home/sdeguchi/ClionProjects/KB/Graph.h">
+			<Option target="KB"/>
+		</Unit>
+		<Unit filename="/home/sdeguchi/ClionProjects/KB/Movie.cpp">
+			<Option target="KB"/>
+		</Unit>
+		<Unit filename="/home/sdeguchi/ClionProjects/KB/Movie.h">
+			<Option target="KB"/>
+		</Unit>
+		<Unit filename="/home/sdeguchi/ClionProjects/KB/MovieTree.cpp">
+			<Option target="KB"/>
+		</Unit>
+		<Unit filename="/home/sdeguchi/ClionProjects/KB/MovieTree.h">
+			<Option target="KB"/>
+		</Unit>
+		<Unit filename="/home/sdeguchi/ClionProjects/KB/main.cpp">
+			<Option target="KB"/>
+		</Unit>
+		<Unit filename="/home/sdeguchi/ClionProjects/KB/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
